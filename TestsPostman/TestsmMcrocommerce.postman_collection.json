@@ -19,7 +19,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\n        \"id\": 90,\n        \"nom\": \"Chargeur PC HP\",\n        \"prix\": \"10\",\n        \"prix_achat\" :\"50\"\n    }",
+					"raw": "{\n        \"nom\": \"Chargeur PC HP\",\n        \"prix\": \"0\",\n        \"prix_achat\" :\"50\"\n    }",
 					"options": {
 						"raw": {
 							"language": "json"
